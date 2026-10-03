@@ -1,0 +1,9 @@
+github: HappiProgrammer
+name: Happi Geniune Nguewo
+# The lines below are optional. Replace the example values or delete the lines.
+bio: Hello I build.
+location: Buea, Cameroon
+website: https://my-site-psi-lyart.vercel.app
+contributions:
+  # Later, list issues or pull requests you worked on, one per line, like this:
+  # - https://github.com/osscameroon/js-generator/pull/1
