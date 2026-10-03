@@ -5,6 +5,6 @@ bio: The best dev you'd ever come across
 location: Buea, Cameroon
 website: https://osscameroon.github.io/
 contributions:
-- https://github.com/osscameroon/firstcontributions/pull/14
+  - https://github.com/osscameroon/firstcontributions/pull/14
   # Later, list issues or pull requests you worked on, one per line, like this:
   # - https://github.com/osscameroon/js-generator/pull/1
